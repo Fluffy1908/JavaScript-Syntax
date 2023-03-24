@@ -29,4 +29,4 @@ let result = () => {
 
 result();
 
-console.log('Testing pr skills')
+console.log('Testing add skills')
