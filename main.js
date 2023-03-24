@@ -3,7 +3,7 @@ const phrase = ["we cannot solve problems with the kind of thinking we employed 
 
 let yourName = (name) => {
     if (typeof name === 'string') {
-        return name;
+        return name.toUpperCase();
     } else {
         return ('Invalid name');
     }
@@ -29,3 +29,4 @@ let result = () => {
 
 result();
 
+console.log('Testing pr skills')
